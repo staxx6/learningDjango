@@ -1,0 +1,13 @@
+body {
+  background: black url("images/background.jpg") no-repeat left top;
+  background-size: cover;
+}
+
+h1 {
+  color: red;
+  font-size: 26pt;
+}
+
+li a {
+  color: yellow;
+}
